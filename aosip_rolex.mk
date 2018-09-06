@@ -29,7 +29,7 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := rolex
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_MODEL := Redmi 4A
-PRODUCT_NAME := carbon_rolex
+PRODUCT_NAME := aosip_rolex
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
